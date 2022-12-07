@@ -3,4 +3,4 @@
 ### h3
 > quote text
 some code like `echo`
-my lovely color is `#00FF00`
+my lovely color is `#00ff00`
