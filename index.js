@@ -6,4 +6,3 @@ const undefinedVar = undefined;
 const object = {};
 const array = [];
 // Nan - Not a Number: String / String
-console.log('Hello');
