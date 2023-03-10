@@ -4,4 +4,3 @@ const boolean = true;
 const nullVar = null;
 const undefinedVar = undefined;
 const object = {};
-const array = [];
